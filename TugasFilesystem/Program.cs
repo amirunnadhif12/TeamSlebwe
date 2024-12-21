@@ -41,6 +41,10 @@ class FileSystem
 
         dir[fileName] = null;
         Console.WriteLine($"File '{fileName}' created.");
+        if (dir != 10)
+        {
+                
+        }
     }
 
     public void Mkdir(string dirname)
