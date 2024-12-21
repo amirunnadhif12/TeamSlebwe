@@ -1,0 +1,14 @@
+/home/abinaya/Dokumen/Tugas_FileSystem/bin/Debug/net8.0/Tugas_FileSystem
+/home/abinaya/Dokumen/Tugas_FileSystem/bin/Debug/net8.0/Tugas_FileSystem.deps.json
+/home/abinaya/Dokumen/Tugas_FileSystem/bin/Debug/net8.0/Tugas_FileSystem.runtimeconfig.json
+/home/abinaya/Dokumen/Tugas_FileSystem/bin/Debug/net8.0/Tugas_FileSystem.dll
+/home/abinaya/Dokumen/Tugas_FileSystem/bin/Debug/net8.0/Tugas_FileSystem.pdb
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.AssemblyInfoInputs.cache
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.AssemblyInfo.cs
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.csproj.CoreCompileInputs.cache
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.dll
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/refint/Tugas_FileSystem.dll
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.pdb
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/Tugas_FileSystem.genruntimeconfig.cache
+/home/abinaya/Dokumen/Tugas_FileSystem/obj/Debug/net8.0/ref/Tugas_FileSystem.dll
